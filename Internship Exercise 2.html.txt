@@ -1,0 +1,47 @@
+<html>
+<body>
+
+
+<h1>FLOWERS</h1>
+
+
+<ul>
+  <li>Sunflower</li>
+  <li>Rose</li>
+  <li>Lotus</li>
+  <li>Lilly</li>
+  <li>Tulip</li>
+  <li>Lavender</li>
+  <li>Hibiscus</li>
+  <li>Marigold</li>
+  <li>Jasmine</li>
+  <li>Daisy</li>
+</ul>  
+
+
+<h1>FAMOUS PLACES IN KANYAKUMARI</h1>
+
+
+<ol>
+  <li>Kanyakumari Beach</li>
+  <li> Vivekanander Rock Memorial</li>
+  <li>Thiruvalluvar Statue</li>
+  <li>Sunset Point</li>
+  <li>Lamor Beach</li>
+  <li>Dams</li>
+  <li>Thiruparappu Falls </li>
+  <li>Vattakottai Fort</li>
+  <li>Padmanabhapuram Palace </li>
+  <li>Gandhi Mandapam </li>
+</ol> 
+
+
+<p>Kanyakumari, located at the southernmost tip of India, is a beautiful coastal town known for its unique geographical location, where the Bay of Bengal, the Arabian Sea, and the Indian Ocean meet.
+WHERE OCEAN'S MEETS AND THE SUNSET SPEAK'S</p>
+
+
+</body>
+</html>
+
+
+
